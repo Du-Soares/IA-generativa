@@ -1,0 +1,2 @@
+# IA-generativa
+Usando Copilot
